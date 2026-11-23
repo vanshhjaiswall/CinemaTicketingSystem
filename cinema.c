@@ -3,7 +3,7 @@
 #define max 10
 #define r 8
 #define c 10
-#define maxb 50
+#define maxb 80
 
 typedef struct {
     int   id;
